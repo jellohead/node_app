@@ -207,7 +207,7 @@
 			"file": "index.js",
 			"settings":
 			{
-				"buffer_size": 302,
+				"buffer_size": 303,
 				"line_ending": "Unix"
 			}
 		}
@@ -435,7 +435,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 3,
 			"sheets":
 			[
 				{
@@ -581,7 +581,7 @@
 							"sublimelinter_mark_style": "none",
 							"sublimelinter_notes": false,
 							"sublimelinter_objj_check_ascii": false,
-							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_popup_errors_on_save": true,
 							"sublimelinter_syntax_map":
 							{
 								"C++": "c",
@@ -594,7 +594,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 21.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -742,7 +742,7 @@
 							"sublimelinter_mark_style": "none",
 							"sublimelinter_notes": false,
 							"sublimelinter_objj_check_ascii": false,
-							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_popup_errors_on_save": true,
 							"sublimelinter_syntax_map":
 							{
 								"C++": "c",
@@ -901,7 +901,7 @@
 							"sublimelinter_mark_style": "none",
 							"sublimelinter_notes": false,
 							"sublimelinter_objj_check_ascii": false,
-							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_popup_errors_on_save": true,
 							"sublimelinter_syntax_map":
 							{
 								"C++": "c",
@@ -924,15 +924,15 @@
 					"file": "index.js",
 					"settings":
 					{
-						"buffer_size": 302,
+						"buffer_size": 303,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								300,
-								300
+								137,
+								137
 							]
 						],
 						"settings":
@@ -1062,7 +1062,7 @@
 							"sublimelinter_mark_style": "none",
 							"sublimelinter_notes": false,
 							"sublimelinter_objj_check_ascii": false,
-							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_popup_errors_on_save": true,
 							"sublimelinter_syntax_map":
 							{
 								"C++": "c",
